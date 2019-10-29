@@ -33,11 +33,12 @@ make
 make install
 ```
 经过上面步骤有
-文件|路径
----:|:--
-可执行文件|/usr/local/python3.7.1/bin
-库文件|/usr/local/python3.7/lib
-配置文件|/usr/local/python3.7/share
+<table>
+<tr><td>文件</td><td>路径</td></tr>
+<tr><td>可执行文件</td><td>/usr/local/python3.7.1/bin</td></tr>
+<tr><td>库文件</td><td>/usr/local/python3.7/lib</td></tr>
+<tr><td>配置文件</td><td>/usr/local/python3.7/share</td></tr>
+</table>
 
 * step4：配置环境变量
 ```
